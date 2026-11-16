@@ -32,7 +32,7 @@ export default function LoveTimer({ startDate, onSecretClick }) {
           style={{ cursor: 'pointer', userSelect: 'none' }}
           title=""
         >
-          💜
+          
         </span>
       </h1>
       <p className="subtitle">Cada segundo a tu lado cuenta</p>
